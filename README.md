@@ -1,7 +1,7 @@
 # gitlab-jenkins
 
 Description:
-![alt slider](http://cdn.madlabbrazil.com/ex06.jpg)
+![alt slider](http://cdn.madlabbrazil.com/ex07.jpg)
 
 [Full Presetation](https://docs.google.com/presentation/d/1DReA_GDzy6HvG0TJ1Ry-CQlmVhuNZsEbXi7VGO3-f3k/edit?usp=sharing)
 
